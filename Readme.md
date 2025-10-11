@@ -1,1 +1,16 @@
-Hallo ini adalah github saya Diandra Rangga 
+👋 Hi, I'm Diandra Rangga
+💻 Mahasiswa Teknik Informatika | NIM: | Kelas: 1C
+
+Tentang Saya
+Saya seorang mahasiswa yang tertarik di dunia pemrograman dan teknologi.
+Bahasa yang sering saya gunakan: Java, HTML, CSS.
+
+📚 Saat ini saya sedang belajar
+Pengembangan Web
+Pemrograman Java tingkat lanjut
+🎯 Tujuan Saya
+Mengembangkan kemampuan untuk menjadi software engineer profesional dan berkontribusi di dunia teknologi.
+
+📫 Kontak
+✉️ Email: 
+🌐 Portofolio:
