@@ -1,5 +1,5 @@
 👋 Hi, I'm Diandra Rangga
-💻 Mahasiswa Teknik Informatika | NIM: | Kelas: 1C
+💻 Mahasiswa Teknik Informatika | NIM: 254107020150| Kelas: 1C
 
 Tentang Saya
 Saya seorang mahasiswa yang tertarik di dunia pemrograman dan teknologi.
@@ -12,5 +12,5 @@ Pemrograman Java tingkat lanjut
 Mengembangkan kemampuan untuk menjadi software engineer profesional dan berkontribusi di dunia teknologi.
 
 📫 Kontak
-✉️ Email: 
+✉️ Email: ranggapermana2500@gmail.com
 🌐 Portofolio:
